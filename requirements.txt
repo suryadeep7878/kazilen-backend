@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+twilio
+redis
+pyjwt
+passlib
+python-dotenv
+pydantic
+pydantic-settings
